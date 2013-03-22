@@ -1,3 +1,3 @@
-# static 4 ever
+# Everplaces static files
 
-`gh-pages` is the place to be.
+This repository is for hosting various static files.
