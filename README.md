@@ -1,4 +1,3 @@
-static
-======
+# static 4 ever
 
-Static files
+`gh-pages` is the place to be.
